@@ -9,3 +9,6 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+
+123456
+apache_child_terminate
